@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cac8f722d51c1440d8a56e27fd8d09d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brokenSprite: {instanceID: 0}
+  - destoy: {fileID: 198219199195590610, guid: 381f7f225d0c8f248af175242277e16d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

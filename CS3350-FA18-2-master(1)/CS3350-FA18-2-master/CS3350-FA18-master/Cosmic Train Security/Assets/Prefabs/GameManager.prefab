@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1091919776394912}
+  m_IsPrefabAsset: 1
+--- !u!1 &1091919776394912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4776265847522418}
+  - component: {fileID: 114195693125092204}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4776265847522418
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1091919776394912}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114195693125092204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1091919776394912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83d5f677188d93418b1667e8f3ee3ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabFloorTile: {fileID: 1304017003693574, guid: 1232db06bcc43b34db0e2495d6ec5270,
+    type: 2}
+  prefabWallTile: {fileID: 1252597081215190, guid: d5368b0975e27fa47a4ce608fb0cc2ce,
+    type: 2}
+  prefabCrate: {fileID: 1200973849414892, guid: 9e90b08615d8b184585534432569916d,
+    type: 2}
+  prefabTable: {fileID: 1024341392780532, guid: 64ca0ec06474fbf408c11face5e3eded,
+    type: 2}
+  prefabMoveSpot: {fileID: 1968401670715384, guid: 66869a08c008abd4daa62a5a2b160496,
+    type: 2}
+  mainCamera: {fileID: 0}
+  prefabEnemy: {fileID: 1863275056932664, guid: 9096a341aea507147b653245440c2db7,
+    type: 2}
+  prefabPlayer: {fileID: 1097492304743770, guid: 5e55c591e4a41d640871343a03f6ccdb,
+    type: 2}
+  prefabParentCanvas: {fileID: 1077188239174748, guid: b7d1d6e89f9c0b64484bc26ea4a2e798,
+    type: 2}
+  prefabAudioManager: {fileID: 1142818353339488, guid: af0a7fb153bec49efb74643a63a80c9b,
+    type: 2}

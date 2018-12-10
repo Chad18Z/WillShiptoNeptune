@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 8459cb87283bd784e9b031b21bcfc1e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vacuum: {fileID: 1318378378348220, guid: 384260d973c03674294bee21f11c876b, type: 2}
+  - wallTile: {fileID: 11400000, guid: 2892fb667e52d264a8793690d30b9258, type: 2}
+  - destroyedTileLeft: {fileID: 11400000, guid: fb4b1d101b6306c4bb975008218289fa,
+      type: 2}
+  - destroyedTileRight: {fileID: 11400000, guid: b3bb276f48498fd48ab3a3464dc2e752,
+      type: 2}
+  - cornerTile: {fileID: 11400000, guid: 0554685e17550b842b36050ef6f2ad88, type: 2}
+  - intersectionTile: {fileID: 11400000, guid: 3af7ac98f6824a648a65b99773d6ca63, type: 2}
+  - blastProofWallHoriz: {fileID: 11400000, guid: 4db3d6dbd54f444469f2b669b412fcd9,
+      type: 2}
+  - blastProofWallVert: {fileID: 11400000, guid: 3ed7a99dbb2d8db45ac745d4d1248e02,
+      type: 2}
+  - blastProofWallVertFlipped: {fileID: 11400000, guid: ffc12d0c417ffdf4fb54dc82785c3213,
+      type: 2}
+  - blastProofWallHorizFlipped: {fileID: 11400000, guid: 832ff63fd9b2fe042bb314af75596201,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

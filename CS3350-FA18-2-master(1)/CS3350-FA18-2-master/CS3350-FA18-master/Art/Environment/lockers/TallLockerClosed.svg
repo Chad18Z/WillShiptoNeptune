@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1245"
+   sodipodi:docname="TallLockerClosed.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\yunau\Desktop\School Work Fall 2018\NEWteamrepo\CS3350-FA18-master\Cosmic Train Security\Assets\Art\Placeholder\ClosedLockerConcept.png"
+   inkscape:export-xdpi="14.344589"
+   inkscape:export-ydpi="14.344589">
+  <defs
+     id="defs1239" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-1378.4156"
+     inkscape:cy="790.39665"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer9"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1242">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="squareness"
+     sodipodi:insensitive="true">
+    <g
+       id="g1790"
+       style="opacity:0"
+       transform="rotate(90,-234.23891,130.35076)">
+      <rect
+         y="139.3271"
+         x="-347.18579"
+         height="122.94398"
+         width="11.225321"
+         id="rect891-8"
+         style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="120.55927"
+         x="131.27678"
+         height="226.62653"
+         width="11.225321"
+         id="rect891-4-2"
+         style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="139.32709"
+         x="-131.7612"
+         height="122.94398"
+         width="11.225321"
+         id="rect891-9-7"
+         style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Floor"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#2f2f2f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect843"
+       width="204.72844"
+       height="120.27129"
+       x="-355.46307"
+       y="28.126854" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="FloorShadow"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Locker details"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#383838;fill-opacity:1;stroke:#000000;stroke-width:0.255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -317.08648,24.568899 c 12.11143,0.161825 9.43916,5.309683 1.96428,18.161965 -7.50256,6.338909 -11.1301,13.882391 1.6613,5.430745 5.25413,-6.649228 6.02517,-12.454842 8.81106,-12.701629 2.70621,-0.239729 3.37771,4.829137 8.86668,12.861262 6.45073,4.671314 14.58498,6.261999 1.6613,-5.430745 -5.80123,-11.805504 -13.27082,-18.507663 4.82673,-18.241145"
+       id="path837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccc" />
+    <path
+       style="fill:#383838;fill-opacity:1;stroke:#000000;stroke-width:0.255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -219.23537,24.459915 c 12.11143,0.161825 9.43916,5.309683 1.96428,18.161965 -7.50256,6.338909 -11.1301,13.882391 1.6613,5.430745 5.25413,-6.649228 6.02517,-12.454842 8.81106,-12.701629 2.70621,-0.239729 3.37771,4.829137 8.86668,12.861262 6.45073,4.671315 14.58498,6.261998 1.6613,-5.430745 -5.80123,-11.805504 -13.27082,-18.507663 4.82673,-18.241145"
+       id="path837-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="walls"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891"
+       width="11.225321"
+       height="122.94398"
+       x="-366.15924"
+       y="25.454187" />
+    <rect
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891-4"
+       width="11.225321"
+       height="226.62653"
+       x="17.403866"
+       y="139.53271"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891-9"
+       width="11.225321"
+       height="122.94398"
+       x="-150.73463"
+       y="25.454174" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="LockerDoorDetails"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:#787878;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1721"
+       width="17.197918"
+       height="6.9925594"
+       x="-182.05087"
+       y="155.37126"
+       ry="1.7008928"
+       rx="1.3622112" />
+    <path
+       style="fill:#555555;fill-opacity:1;stroke:#000000;stroke-width:0.48858538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -177.52121,142.91491 0.80941,12.07992 1.86086,5.0715 1.98427,0.0229 1.82649,-4.944 0.84377,-12.2532"
+       id="path837-6-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="LockerDoor"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect891-4-1"
+       width="11.225321"
+       height="226.62653"
+       x="137.17284"
+       y="139.53271"
+       transform="rotate(90)" />
+    <path
+       style="opacity:1;fill:#787878;fill-opacity:1;stroke:#787878;stroke-width:1.52919304;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path940-6"
+       sodipodi:type="arc"
+       sodipodi:cx="-360.08514"
+       sodipodi:cy="142.24084"
+       sodipodi:rx="4.7449236"
+       sodipodi:ry="4.4868507"
+       sodipodi:start="2.7182805"
+       sodipodi:end="2.71287"
+       d="m -364.41125,144.08396 a 4.7449236,4.4868507 0 0 1 2.37112,-5.93143 4.7449236,4.4868507 0 0 1 6.2758,2.23414 4.7449236,4.4868507 0 0 1 -2.35414,5.93747 4.7449236,4.4868507 0 0 1 -6.28217,-2.21807 l 4.3155,-1.86523 z" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true" />
+</svg>

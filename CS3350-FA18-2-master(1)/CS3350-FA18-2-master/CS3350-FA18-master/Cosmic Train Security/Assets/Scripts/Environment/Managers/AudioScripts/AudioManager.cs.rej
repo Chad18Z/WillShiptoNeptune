@@ -1,0 +1,26 @@
+diff a/CS3350-FA18-master/Cosmic Train Security/Assets/Scripts/AudioScripts/AudioManager.cs b/CS3350-FA18-master/Cosmic Train Security/Assets/Scripts/AudioScripts/AudioManager.cs	(rejected hunks)
+@@ -65,14 +65,23 @@
+     /// <param name="source"></param>
+     public static void Initialize(AudioSource source)
+     {
++        // loads in sounds from Resources
+         initialized = true;
+         audioSource = source;
+ 
+-        // loads in sounds from Resources
++        //Soundtrack
+         audioClips.Add(AudioClipName.bg_RelaxedMusic, Resources.Load<AudioClip>("Audio/Soundtrack/bg_RelaxedMusic"));
+         audioClips.Add(AudioClipName.bg_SuspenseMusic, Resources.Load<AudioClip>("Audio/Soundtrack/bg_SuspenseMusic"));
+         audioClips.Add(AudioClipName.bg_ActionMusic, Resources.Load<AudioClip>("Audio/Soundtrack/bg_ActionMusic"));
++
++        //Environment
+         audioClips.Add(AudioClipName.canister_Explosion, Resources.Load<AudioClip>("Audio/Environment/canister_Explosion"));
++        audioClips.Add(AudioClipName.vent, Resources.Load<AudioClip>("Audio/Temp/PLACEHOLDER_VENT"));
++        audioClips.Add(AudioClipName.door_Close, Resources.Load<AudioClip>("Audio/Environment/door_Close"));
++        audioClips.Add(AudioClipName.door_Open, Resources.Load<AudioClip>("Audio/Environment/door_Open"));
++        audioClips.Add(AudioClipName.Vent, Resources.Load<AudioClip>("Audio/Environment/Vent"));
++
++        //Player
+         audioClips.Add(AudioClipName.fire, Resources.Load<AudioClip>("Audio/Player/laserBlastSound"));
+         audioClips.Add(AudioClipName.player_WeaponCharge, Resources.Load<AudioClip>("Audio/Player/player_WeaponCharge"));
+         audioClips.Add(AudioClipName.player_WeaponReticleEnemy, Resources.Load<AudioClip>("Audio/Player/player_WeaponReticleEnemy"));

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53bae228bb2ae2b4aab0c913a5f2642d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabInitialTripWire: {instanceID: 0}
+  - highlightedSprite: {fileID: 21300000, guid: 62017be879fac69428dee6aa8b0a8624,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

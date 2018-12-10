@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d83d5f677188d93418b1667e8f3ee3ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabFloorTile: {instanceID: 0}
+  - prefabWallTile: {instanceID: 0}
+  - prefabCrate: {instanceID: 0}
+  - prefabTable: {instanceID: 0}
+  - prefabMoveSpot: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - prefabEnemy: {instanceID: 0}
+  - prefabPlayer: {instanceID: 0}
+  - prefabEnergyMeter: {instanceID: 0}
+  - prefabPauseMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
